@@ -61,7 +61,7 @@ The project includes:
 ```text
 Sales_Performance_Analysis/
 │
-├── Sales_Performance_Analysis.xlsx
+├── Online_Retail_Sales_Analysis
 └── README.md
 ```
 
